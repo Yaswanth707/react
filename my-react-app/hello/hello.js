@@ -1,3 +1,3 @@
 console.log("hi");
-console.log("modda gudu");
-console.log("lanja");
+console.log("baga undandi guzs");
+console.log("ahh shock iyyara nenu me uppala balu 💁‍♀️");
